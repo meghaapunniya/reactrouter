@@ -14,6 +14,10 @@ export const MenuList = [
     {
         title: "Whale",
         url:"/whale"
+    },
+    {
+        title: "Clock",
+        url:"/clock"
     }
     
 ]
